@@ -4,7 +4,7 @@ import time
 
 #cap = cv2.VideoCapture(0) # For laptop webcam
 cap = cv2.VideoCapture(1) # For alternative webcam
-cap = cv2.VideoCapture("video/path") # For a video
+#cap = cv2.VideoCapture("video/path") # For a video
 pTime = 0
 
 mpDraw = mp.solutions.drawing_utils
